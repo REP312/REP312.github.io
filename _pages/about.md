@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Candidate, <a href="https://computerscience.exeter.ac.uk/">Department of Computer Science</a>, The University of Exeter
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: photo.png
+  image_circular: true # crops the image to make it circular
   more_info: #>
     # <p>Innovation Centre A1</p>
     # <p>Rennes Dr</p>
@@ -38,8 +38,9 @@ latest_posts:
   }
 </style>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in Computer Science at the University of Exeter, supervised by [Prof. Jia Hu](https://experts.exeter.ac.uk/24926-jia-hu) and [Prof. Geyong Min](https://experts.exeter.ac.uk/23192-geyong-min). Before joining the University of Exeter, I received my master’s degree in Software Engineering from Shaanxi Normal University, where I was supervised by [Prof. Fei Hao](https://fhaocs.github.io/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on graph neural networks, explainable artificial intelligence, and graph-based modelling for complex networked systems. In particular, I am interested in understanding how graph neural networks make decisions, how these decisions can be explained, and how explanation techniques can support the analysis and improvement of real-world networked systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+More recently, I have been exploring graph-based modelling and reasoning for large language models and agentic systems, with an interest in how graph techniques can support knowledge organisation, reasoning, and explanation.
+
